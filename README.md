@@ -6,13 +6,6 @@ Architecture Document (SAD) and Detailed Design Document (DDD)
 
 ## Getting Started
 
-### Prerequisites
-
-```
-JDK 8 or newer
-MSSQL
-```
-
 ### Installing
 
 1. Upload file to the directory of your choice.
