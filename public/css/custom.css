@@ -1,0 +1,85 @@
+.navbar {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.navbar ul li {
+    padding: 5px 19px;
+}
+.activityOveriew {
+    border: 1px solid #e3e3e3;
+    padding: 0px;
+}
+.aoHead {
+    border-bottom: 1px solid #e3e3e3;
+    padding: 5px 10px;
+}
+.fooStyle {
+    border:1px solid #e3e3e3;
+    padding: 15px;
+}
+@media only screen and (min-width:768px) {
+    .categoriesBtn {
+        background: #000;
+    }
+}
+.nav-sidebar li {
+    display: block;
+    width: 100%;
+}
+.tpHeader {
+    margin: 20px 0px;
+}
+.tpHeader img,.tpHeader h5{
+    float: left;
+    margin: 0px 5px;
+    font-size: 16px;
+}
+.tpBody ul {
+    padding: 0;
+    overflow: hidden;
+}
+.tpBody ul li {
+    list-style: none;
+    margin: 15px 0px;
+}
+.tpBody ul li span {
+    color: #8b8b8b;
+    font-weight: bold;
+    text-align: left;
+    font-size: 13px;
+}
+.tpBody ul li div {
+    text-align: right;
+    float: right;
+}
+.tpFooter p{
+    font-size: 12px;
+    font-style: initial;
+}
+user-details-section{
+    display: inline-block;
+}
+.download-lecture{
+    width: auto;
+    display: inline-block;
+}
+
+.video-lecture-pic{
+    padding-left: 2.5em;
+}
+.disableContent {
+     user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+    opacity: 0.3;
+    pointer-events: none;
+}
+.enrollModel {
+    position: absolute;
+  top: 40%;
+  left: 40%;
+  margin-top: -50px;
+  margin-left: -100px;
+}
